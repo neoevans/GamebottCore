@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="GamebottCore/GamebottCore.csproj" />
+﻿<Properties StartupItem="GamebottCore/GamebottCore.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GamebottCore/Record.cs">
+    <Files>
+      <File FileName="GamebottCore/Record.cs" Line="38" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
